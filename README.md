@@ -22,7 +22,7 @@ POINT TO NOTICE
 
 you can directly extract recommendation.rar file.
 
-and in netbeans go to new -> import project->select 'recommendation folder->click on Open.
+and in netbeans go to new -> import project->select 'Recommendation' folder->click on Open.
 
 
 
