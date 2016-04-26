@@ -28,4 +28,6 @@ and in netbeans go to new -> import project->select 'recommendation folder->clic
 
 NOTICE
 
+extract Java-Cassandra.rar file to get all required JAR Files
+
 import jar files to library
